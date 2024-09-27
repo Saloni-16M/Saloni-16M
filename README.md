@@ -19,7 +19,7 @@ I’m a full-stack developer with a passion for creating innovative web applicat
 🔧 Visual Studio Code | IntelliJ IDEA | PyCharm |Canva
 
 📫 **Connect with Me**  
-LinkedIn: [https://www.linkedin.com/in/saloni-832765266/]
-Email: [saloni45055@gmail.com]
+LinkedIn: https://www.linkedin.com/in/saloni-832765266/   <br>
+Email: saloni45055@gmail.com
 
 
