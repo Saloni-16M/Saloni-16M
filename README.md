@@ -1,6 +1,6 @@
 
 
-👋 **My name is Saloni**
+👋 **Hi, I’m Saloni!**
 
 👨‍💻 **About Me**  
 I’m a full-stack developer with a passion for creating innovative web applications. 🚀 I love turning ideas into sleek, interactive web apps using React and the MERN stack. Always excited for new challenges and collaborations!
@@ -19,7 +19,7 @@ I’m a full-stack developer with a passion for creating innovative web applicat
 🔧 Visual Studio Code | IntelliJ IDEA | PyCharm |Canva
 
 📫 **Connect with Me**  
-LinkedIn: https://www.linkedin.com/in/saloni-832765266/
-Email: saloni45055@gmail.com
+LinkedIn: [https://www.linkedin.com/in/saloni-832765266/]
+Email: [saloni45055@gmail.com]
 
 
