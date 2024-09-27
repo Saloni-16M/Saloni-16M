@@ -16,10 +16,10 @@ I’m a full-stack developer with a passion for creating innovative web applicat
 💻 Java | Python | C++ | PHP  
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS    
 🛢 MySQL | MongoDB  
-🔧 Visual Studio Code | IntelliJ IDEA | PyCharm
+🔧 Visual Studio Code | IntelliJ IDEA | PyCharm |Canva
 
 📫 **Connect with Me**  
-LinkedIn: (https://www.linkedin.com/in/saloni-832765266/)  
+LinkedIn: https://www.linkedin.com/in/saloni-832765266/
 Email: saloni45055@gmail.com
 
 
